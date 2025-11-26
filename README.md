@@ -4,3 +4,4 @@ Automated IoT-based door lock system using ESP32, controlling a sservo lock with
 
 
  
+<img width="1112" height="738" alt="image" src="https://github.com/user-attachments/assets/0c2a9aeb-6db9-40da-b609-98a1b818cfed" />
